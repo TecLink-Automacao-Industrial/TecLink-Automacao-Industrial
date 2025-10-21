@@ -27,13 +27,13 @@ All code contributions and commits are performed by the TecLink development team
 ---
 
 ### 📈 GitHub Activity
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=TecLink-Automacao-Industrial&show_icons=true&count_private=true)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=ViniciusRMatos&show_icons=true&count_private=true)
 
 ---
 
 ### 🤝 Contact
 For collaboration or partnership inquiries:  
-📧 contato@teclink.com.br  
+📧 teclink@teclink.com.br  
 🌍 [www.teclink.com.br](https://www.teclink.com.br)
 
 ---
