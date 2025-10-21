@@ -32,10 +32,6 @@ All code contributions and commits are performed by the TecLink development team
 ![ViniciusRMatos GitHub Stats](https://github-stats-viniciusrmatos.vercel.app/api?username=ViniciusRMatos&show_icons=true&count_private=true&theme=tokyonight&hide_border=true)
 ![Top Langs](https://github-stats-viniciusrmatos.vercel.app/api/top-langs/?username=ViniciusRMatos&layout=compact&theme=tokyonight&hide_border=true)
 
-
-### 📈 GitHub Activity
-![GitHub Stats](https://github-stats-viniciusrmatos.vercel.app/api?username=ViniciusRMatos)
-
 ---
 
 ### 🤝 Contact
