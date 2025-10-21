@@ -1,5 +1,3 @@
-# TecLink-Automacao-Industrial
-
 # 👋 Welcome to TecLink Automação Industrial
 
 ### 🌐 Industrial Automation | Cloud Integration | AI Systems
